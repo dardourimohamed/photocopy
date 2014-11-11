@@ -1,0 +1,11 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\bin\Release\photocopy.exe.config
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\bin\Release\photocopy.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\bin\Release\photocopy.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\bin\Release\photocopy.xml
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Release\photocopy.Form1.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Release\photocopy.Resources.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Release\photocopy.vbproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Release\photocopy.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Release\photocopy.xml
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Release\photocopy.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\photocopy\photocopy\obj\Release\photocopy.vbprojResolveAssemblyReference.cache

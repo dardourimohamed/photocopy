@@ -1,0 +1,11 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\bin\Debug\photocopy.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\bin\Debug\photocopy.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\bin\Debug\photocopy.xml
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Debug\photocopy.Form1.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Debug\photocopy.Resources.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Debug\photocopy.vbproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Debug\photocopy.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Debug\photocopy.xml
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Debug\photocopy.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\bin\Debug\photocopy.exe.config
+c:\users\mohamed\documents\visual studio 2013\Projects\photocopy\photocopy\obj\Debug\photocopy.Form2.resources
